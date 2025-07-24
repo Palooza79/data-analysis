@@ -26,10 +26,9 @@ In the initial data preparation phase we performed the following tasks:
 ### Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions, such as:
-
--What is the overall sales trend?
--Which products are top sellers?
--What are peak sales periods?
+ -What is the overall sales trend?
+ -Which products are top sellers?
+ -What are peak sales periods?
 
 ### Data Analysis
 
@@ -40,3 +39,18 @@ Include some interesting code/features you worked with (Sub query, CTE, window f
 SELECT * FROM table1
 WHERE CONDITION = 2;
         
+### Results/Findings
+
+The analysis results are summarized as follows:
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+2. Product category A is the best performing in terms of sales and revenue.
+3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+-Invest in marketing and promotions during peak sales seasons to maximize revenue.
+-Focus on promoting and expanding products in Category A.
+-Implement a customer segmentation strategy to target high - LTV customers effectively.
+
+### Limitations
